@@ -6,3 +6,5 @@ I'm a postgraduate student in [MSc Statistics](https://www.imperial.ac.uk/study/
 - 📫 yuxuan.du22@imperial.ac.uk
 - 💼 [LinkedIn](www.linkedin.com/in/alice-yuxuan-du)
 
+------
+last updated: 30 Sep 2025
